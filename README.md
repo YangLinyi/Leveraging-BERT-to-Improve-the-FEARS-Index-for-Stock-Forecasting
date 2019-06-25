@@ -1,1 +1,1 @@
-# FEARS-Index-with-BERT
+#  Leveraging BERT to Improve the FEARS Index for Stock Forecasting
